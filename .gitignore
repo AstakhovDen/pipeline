@@ -1,0 +1,8 @@
+*.py
+*.md
+*.csv
+*.json
+!version.json
+site_push.log
+__pycache__/
+.DS_Store
