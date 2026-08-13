@@ -3,6 +3,7 @@
 *.csv
 *.json
 !version.json
+!manifest.json
 site_push.log
 __pycache__/
 .DS_Store
